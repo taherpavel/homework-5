@@ -1,2 +1,2 @@
 # homework-5
-sample work for html
+https://taherpavel.github.io/homework-5/
